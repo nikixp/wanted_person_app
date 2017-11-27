@@ -1,0 +1,14 @@
+firebase account: imenqmam1@gmail.com
+password: admin1234asd
+
+apiKey: "AIzaSyBvsLBvITZuh6cSjuAXtBY8Fbq3S7b7AB0",
+authDomain: "mvr-bg-b97eb.firebaseapp.com",
+databaseURL: "https://mvr-bg-b97eb.firebaseio.com",
+projectId: "mvr-bg-b97eb",
+storageBucket: "",
+messagingSenderId: "536079944304"
+
+
+api url: https://mvr-bg-b97eb.firebaseio.com
+    child1: /wanted_persons.json
+

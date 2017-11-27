@@ -149,10 +149,11 @@ $(document).ready(function () {
 
             //#niki edit
             try {
-                var newKey = firebase.database().ref().child('posts').push().key;
-                console.log('new key is ' + newKey);
-                let result = db.database().ref('wanted_persons/'+ newKey).set({data});
-                console.log('data is saved ' + result);
+                //ako iskame novo id
+                //var newKey = db.database().ref().child('wanted_persons').push().key;
+                //console.log('new key is ' + newKey);
+                let result = db.database().ref('wanted_persons/').push({data});
+                console.log('data is saved with id' + result + ', alldata: https://mvr-bg-b97eb.firebaseio.com/wanted_persons.json');
             } catch (err) {
                 console.error(err);
             }
