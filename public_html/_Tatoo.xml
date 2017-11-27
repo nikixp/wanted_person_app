@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<row cod_z="1" ime_z='"БУКВИ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="2" ime_z='"ИНИЦИАЛИ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="3" ime_z='"ТЕКСТ"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="4" ime_z='"ОБЛЕКЛО"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="5" ime_z='"ОБУВКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="6" ime_z='"РЪКАВИЦА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="7" ime_z='"ЦИЛИНДЪР"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="8" ime_z='"ШАПКА"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="9" ime_z='"ОРЪЖИЕ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="10" ime_z='"БОЗДУГАН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="11" ime_z='"БОМБА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="12" ime_z='"БРАДВА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="13" ime_z='"БРОНЕТРАНСПОРТЪОР"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="14" ime_z='"КОПИЕ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="15" ime_z='"ЛЪК"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="16" ime_z='"НОЖ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="17" ime_z='"ПИСТОЛЕТ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="18" ime_z='"ПУШКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="19" ime_z='"РЕВОЛВЕР"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="20" ime_z='"САБЯ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="21" ime_z='"ТАНК"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="22" ime_z='"ТОМАХАВКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="23" ime_z='"ТОП"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="24" ime_z='"ШЛЕМ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="25" ime_z='"ЩИТ"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="26" ime_z='"ПАРИ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="27" ime_z='"ДОЛАР"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="28" ime_z='"ЛЕВ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="29" ime_z='"МОНЕТА"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="30" ime_z='"ТЕМА АЛКОХОЛ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="31" ime_z='"БУРЕ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="32" ime_z='"БУТИЛКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="33" ime_z='"ЧАША"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="34" ime_z='"ТЕМА ЗАТВОР"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="35" ime_z='"БЕЛЕЗНИЦИ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="36" ime_z='"ВЕРИГА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="37" ime_z='"РЕШЕТКА"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="38" ime_z='"ТЕМА ИГРА"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="39" ime_z='"ЗАР"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="40" ime_z='"КАРТА"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="41" ime_z='"ТЕМА ЛЮБОВ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="42" ime_z='"СТРЕЛА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="43" ime_z='"СЪРЦЕ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="44" ime_z='"ХАЛКА"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="45" ime_z='"ТЕМА МОРЕ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="46" ime_z='"ВЪЛНИ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="47" ime_z='"КОМПАС"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="48" ime_z='"КОРАБ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="49" ime_z='"КОРМИЛО"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="50" ime_z='"КОТВА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="51" ime_z='"ЛОДКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="52" ime_z='"МРЕЖА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="53" ime_z='"ОСТРОВ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="54" ime_z='"ПОЯС"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="55" ime_z='"ТРИЗЪБЕЦ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="56" ime_z='"ФАР"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="57" ime_z='"ХАРПУН"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="58" ime_z='"ТЕМА МУЗИКА"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="59" ime_z='"АКОРДЕОН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="60" ime_z='"БАРАБАН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="61" ime_z='"КИТАРА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="62" ime_z='"МИКРОФОН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="63" ime_z='"ПИАНО"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="64" ime_z='"ТЕМА НЕБЕ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="65" ime_z='"БАЛОН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="66" ime_z='"ВИТЛО"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="67" ime_z='"ДЪЖД"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="68" ime_z='"ЗВЕЗДА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="69" ime_z='"ОБЛАК"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="70" ime_z='"ПАРАШУТ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="71" ime_z='"ПОЛУМЕСЕЦ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="72" ime_z='"РАКЕТА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="73" ime_z='"САМОЛЕТ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="74" ime_z='"СЛЪНЦЕ"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="75" ime_z='"ТЕМА РЕЛИГИЯ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="76" ime_z='"АНГЕЛ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="77" ime_z='"БОГОРОДИЦА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="78" ime_z='"ДЯВОЛ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="79" ime_z='"ИСУС ХРИСТОС"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="80" ime_z='"СВЕТИЯ"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="81" ime_z='"ТЕМА СМЪРТ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="82" ime_z='"БЕСИЛКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="83" ime_z='"ГИЛОТИНА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="84" ime_z='"ГРОБ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="85" ime_z='"КОВЧЕГ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="86" ime_z='"КРЪСТ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="87" ime_z='"СКЕЛЕТ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="88" ime_z='"ЧЕРЕП"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="89" ime_z='"ТЕМА СПОРТ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="90" ime_z='"БОКСОВИ РЪКАВИЦИ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="91" ime_z='"ГИРА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="92" ime_z='"КЪНКИ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="93" ime_z='"РАНИЦА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="94" ime_z='"СКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="95" ime_z='"СТИК"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="96" ime_z='"ТОПКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="97" ime_z='"ШАЙБА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="98" ime_z='"ШЕЙНА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="99" ime_z='"ЩЕКИ"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="100" ime_z='"ТЕМА ТРАНСПОРТ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="101" ime_z='"АВТОМОБИЛ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="102" ime_z='"ВАГОН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="103" ime_z='"ВЕЛОСИПЕД"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="104" ime_z='"ЛОКОМОТИВ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="105" ime_z='"МОТОЦИКЛЕТ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="106" ime_z='"СВЕТОФАР"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="107" ime_z='"ЧАСТ ТЯЛО"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="108" ime_z='"ГЛАВА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="109" ime_z='"ГЪРДИ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="110" ime_z='"ЕЗИК"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="111" ime_z='"ОКО"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="112" ime_z='"ПОЛОВ ОРГАН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="113" ime_z='"РЪКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="114" ime_z='"СЕДАЛИЩЕ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="115" ime_z='"УСТА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="116" ime_z='"ЮМРУК"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="117" ime_z='"ЧОВЕК"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="118" ime_z='"ВОДОЛАЗ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="119" ime_z='"ГИМНАСТИК"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="120" ime_z='"ГОЛО ТЯЛО"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="121" ime_z='"ГРУПА ХОРА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="122" ime_z='"ДЕТЕ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="123" ime_z='"ЖЕНА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="124" ime_z='"ИНДИАНЕЦ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="125" ime_z='"ИСТОРИЧЕСКА ЛИЧНОСТ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="126" ime_z='"КАУБОЙ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="127" ime_z='"КОСМОНАВТ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="128" ime_z='"КУКЕР"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="129" ime_z='"МОРЯК"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="130" ime_z='"МЪЖ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="131" ime_z='"ПАЛАЧ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="132" ime_z='"ПАЛЯЧО"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="133" ime_z='"ПИРАТ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="134" ime_z='"ПОП"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="135" ime_z='"РУСАЛКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="136" ime_z='"СКИОР"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="137" ime_z='."БИЖУТА"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="138" ime_z='"БИЖУ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="139" ime_z='"ГРИВНА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="140" ime_z='"МЕДАЛЪОН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="141" ime_z='"ПРЪСТЕН"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="142" ime_z='."ВЛЕЧУГИ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="143" ime_z='"ВЛЕЧУГО"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="144" ime_z='"ГУЩЕР"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="145" ime_z='"ЗМИЯ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="145" ime_z='"КРОКОДИЛ"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="146" ime_z='."ГЕОМЕТРИЧНИ ФИГУРИ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="147" ime_z='"ГЕОМЕТРИЧНА ФИГУРА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="148" ime_z='"КВАДРАТ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="149" ime_z='"КРЪГ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="150" ime_z='"ЛИНИИ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="151" ime_z='"ТОЧКИ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="152" ime_z='"ТРИЪГЪЛНИК"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="152" ime_z='."ДР.ТАТУИРОВКИ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="153" ime_z='"ВЕЗНИ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="154" ime_z='"ДР.РИСУНКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="155" ime_z='"ДРАКОН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="156" ime_z='"КОКАЛ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="157" ime_z='"КУКЛА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="158" ime_z='"ЛЕНТА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="159" ime_z='"МАСКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="160" ime_z='"ПАЯЖИНА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="161" ime_z='"ПЛАМЪК"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="162" ime_z='"ПЛАНИНА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="163" ime_z='"СТАТУЯ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="164" ime_z='"ХЛЯБ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="165" ime_z='"ЦИГАРА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="166" ime_z='"ЦИФРИ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="167" ime_z='"ЧУВАЛ"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="168" ime_z='."ЖИВОТНИ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="169" ime_z='"БИК"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="170" ime_z='"ВЪЛК"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="171" ime_z='"ЕЛЕН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="172" ime_z='"ЖИВОТНО"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="173" ime_z='"ЖИРАФ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="174" ime_z='"ЗАЕК"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="175" ime_z='"КАМИЛА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="176" ime_z='"КЕНГУРУ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="177" ime_z='"КОН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="178" ime_z='"КОСТЕНУРКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="179" ime_z='"КОТКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="180" ime_z='"КУЧЕ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="181" ime_z='"ЛИСИЦА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="182" ime_z='"ЛЪВ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="183" ime_z='"МАГАРЕ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="184" ime_z='"МАЙМУНА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="185" ime_z='"МЕЧКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="186" ime_z='"МИДА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="187" ime_z='"МИШКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="188" ime_z='"ОКТОПОД"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="189" ime_z='"ПАНТЕРА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="190" ime_z='"ПРАСЕ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="191" ime_z='"ПРИЛЕП"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="192" ime_z='"РИБА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="193" ime_z='"СКОРПИОН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="194" ime_z='"СЛОН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="195" ime_z='"СЪРНА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="196" ime_z='"ТАРАЛЕЖ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="197" ime_z='"ТИГЪР"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="198" ime_z='."ЛИЧНИ ВЕЩИ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="199" ime_z='"ЗАПАЛКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="200" ime_z='"ЛИЧНА ВЕЩ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="201" ime_z='"ЛУЛА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="202" ime_z='"ОЧИЛА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="203" ime_z='"ТАБАКЕРА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="204" ime_z='"ЧАДЪР"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="205" ime_z='."НАСЕКОМИ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="206" ime_z='"БРЪМБАР"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="207" ime_z='"НАСЕКОМО"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="208" ime_z='"ПАЯК"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="209" ime_z='"ПЕПЕРУДА"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="210" ime_z='."ПТИЦИ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="211" ime_z='"БУХАЛ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="212" ime_z='"ГЪЛЪБ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="213" ime_z='"ГЪСКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="214" ime_z='"ЛЕБЕД"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="215" ime_z='"ОРЕЛ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="216" ime_z='"ПАПАГАЛ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="217" ime_z='"ПАУН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="218" ime_z='"ПТИЦА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="219" ime_z='"ЧАЙКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="220" ime_z='"ЩЪРКЕЛ"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="221" ime_z='."РАСТЕНИЯ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="222" ime_z='"БОР"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="223" ime_z='"ГЪБА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="224" ime_z='"ДЪРВО"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="225" ime_z='"ЖЪЛЪД"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="226" ime_z='"КЛОН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="227" ime_z='"КРУША"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="228" ime_z='"ЛИСТО"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="229" ime_z='"МАЛИНА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="230" ime_z='"ПАЛМА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="231" ime_z='"РАСТЕНИЕ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="232" ime_z='"ТРЪН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="233" ime_z='"ШИШАРКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="234" ime_z='"ЯБЪЛКА"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="235" ime_z='."СГРАДИ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="236" ime_z='"КРЕПОСТ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="237" ime_z='"НЕБОСТЪРГАЧ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="238" ime_z='"СГРАДА"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="239" ime_z='."СИМВОЛИ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="240" ime_z='"ГЕРБ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="241" ime_z='"ДЕТЕЛИНА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="242" ime_z='"ЕМБЛЕМА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="243" ime_z='"ЗЕМНО КЪЛБО"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="244" ime_z='"ЗНАМЕ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="245" ime_z='"ЗОДИЯ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="246" ime_z='"КАРО"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="247" ime_z='"КАЧУЛКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="248" ime_z='"КОРОНА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="249" ime_z='"КУПА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="250" ime_z='"ПАГОН"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="251" ime_z='"ПЕТОЛЪЧКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="252" ime_z='"ПИКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="253" ime_z='"ПОДКОВА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="254" ime_z='"ПРЕЧУПЕН КРЪСТ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="255" ime_z='"СИМВОЛ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="256" ime_z='"СПАТИЯ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="257" ime_z='"ШЕРИФСКА ЗНАЧКА"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="258" ime_z='."ЦВЕТЯ"' valid="0" next_z="0" nivo0="1">
+		<row cod_z="259" ime_z='"ЕДЕЛВАЙС"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="260" ime_z='"КОКИЧЕ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="261" ime_z='"ЛАЛЕ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="262" ime_z='"ЛИЛИЯ"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="263" ime_z='"МАРГАРИТКА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="264" ime_z='"МОМИНА СЪЛЗА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="265" ime_z='"РОЗА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="266" ime_z='"ТЕМЕНУГА"' valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="267" ime_z='"ЦВЕТЕ"' valid="0" next_z="0" nivo0="0"/>
+	</row>
+</root>

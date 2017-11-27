@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<row cod_z="1" ime_z="ГЛАВА" valid="0" next_z="0" nivo0="1">
+		<row cod_z="2" ime_z="БРАДА" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="3" ime_z="БУЗА" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="4" ime_z="ВЕЖДА" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="5" ime_z="ЗЪБ" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="6" ime_z="КЛЕПАЧ" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="7" ime_z="НОС" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="8" ime_z="ОКО" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="9" ime_z="УСТНА" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="10" ime_z="УХО" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="11" ime_z="ЧЕЛО" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="12" ime_z="ШИЯ" valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="13" ime_z="КРАК" valid="0" next_z="0" nivo0="1">
+		<row cod_z="14" ime_z="БЕДРО" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="15" ime_z="КОЛЯНО" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="16" ime_z="ПОДБЕДРЕНИЦА" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="17" ime_z="ПРЪСТ НА КРАК" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="18" ime_z="СТЪПАЛО" valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="19" ime_z="НЕОПРЕДЕЛЕНО" valid="0" next_z="0" nivo0="0"/>
+	<row cod_z="20" ime_z="РЪКА" valid="0" next_z="0" nivo0="1">
+		<row cod_z="21" ime_z="КИТКА" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="22" ime_z="ЛАКЪТ" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="23" ime_z="МИШНИЦА" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="24" ime_z="ПОДЛАКЪТНИЦА" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="25" ime_z="ПРЪСТ НА РЪКА" valid="0" next_z="0" nivo0="0"/>
+	</row>
+	<row cod_z="26" ime_z="ТЯЛО" valid="0" next_z="0" nivo0="1">
+		<row cod_z="27" ime_z="ГРЪБ" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="28" ime_z="ГЪРДИ" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="29" ime_z="КОРЕМ" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="30" ime_z="ПОЛОВ ОРГАН" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="31" ime_z="РАМО" valid="0" next_z="0" nivo0="0"/>
+		<row cod_z="32" ime_z="СЕДАЛИЩЕ" valid="0" next_z="0" nivo0="0"/>
+	</row>
+</root>

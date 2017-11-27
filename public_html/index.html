@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="js/jquery-3.2.1.min.js" type="text/javascript"></script>
+
+        <link href="css/style.css" rel="stylesheet" type="text/css"/>
+
+        <link href="css/select2.min.css" rel="stylesheet" type="text/css"/>
+        <script src="js/select2.min.js" type="text/javascript"></script>
+
+        <!-- setup firebase -->
+        <script src="js/firebase/firebase.js" type="text/javascript"></script>
+        <!--<script src="js/firebase/firebase-app.js" type="text/javascript"></script>
+        <script src="js/firebase/firebase-auth.js" type="text/javascript"></script>
+        <script src="js/firebase/firebase-database.js" type="text/javascript"></script>
+        <script src="js/firebase/firebase-firestore.js" type="text/javascript"></script>
+        <script src="js/firebase/firebase-messaging.js" type="text/javascript"></script>-->
+        <script>
+            // initialize firebase
+            var config = {
+                apiKey: "AIzaSyAnmWG_GRL2s-kklHomzMZkTRLCP-CqySI",
+                authDomain: "mvr-test.firebaseapp.com",
+                databaseURL: "https://mvr-test.firebaseio.com",
+                projectId: "mvr-test",
+                storageBucket: "mvr-test.appspot.com",
+                messagingSenderId: "845321814852"
+            };
+            // test - dali e ok
+            var db = firebase.initializeApp(config);
+        </script>
+
+        <script src="js/script.js" type="text/javascript"></script>
+
+    </head>
+    <body>
+        <h1>Въведи издирвано лице</h1>
+
+        <div class="form">
+            <div class="red hidden errors">    </div>
+            <label>
+                Име<span class="red">*</span>:<br>
+                <input type="text" name="frstname" id="firstname"><br>
+            </label>
+            <label>
+                Фамилия<span class="red">*</span>:<br>
+                <input type="text" name="lastname" id="lastname"><br>
+            </label>
+            <label>
+                ЕГН<span class="red">*</span>:<br>
+                <input type="text" name="egn"  id="egn"><br>
+            </label>
+            <p>Отличителни белези</p>
+            <div class="osobenosti"> 
+                <div data-value="glasses" data-code="2.2">Носи очила</div>
+                <div data-value="peltechi" data-code="2.4.4">Заеква</div>
+                <div data-value="kutsa" data-code="1.2">Куца</div>
+                <div data-value="beleg" data-code="1.4">Има белег</div>
+                <div data-value="ednook" data-code="2.3">Едноок</div>
+                <div data-value="tattoo" data-isloaded="0" data-code="3.2">Има тату</div>
+                <div data-value="bezkrainik" data-code="23.3">Липсва крайник</div>
+                <div data-value="drugi" data-code="1.1">Посочи други</div>
+            </div>
+            <div class="all-tattoo-info hidden">
+                <h2>Описание на татуировка</h2>
+                <div class="tattoo-container">
+
+                    <div class="single-tattoo" id="tattoo1">
+                        <div>място:<br>
+                            <select class="tattoo-location select2js">
+                                <option value="">---</option>
+                            </select>
+                        </div>
+                        <div>тип:<br>
+                            <select class="tattoo-type select2js">
+                                <option value="">---</option>
+                            </select>
+                        </div>
+                        <div>посока:<br>
+                            <select class="tattoo-direction select2js">
+                                <option value="">---</option>
+                            </select>
+                        </div>
+                        <div>
+                            Допълнително описание:<br>
+                            <textarea class="tattoo-descript"></textarea>     
+                        </div>
+                    </div>
+                </div>
+                <div class="add-new-tattoo">
+                    <input id="add-new-tattoo-field" value="Добави още татуси" type="button" data-count-tattoo="1">
+                </div>
+            </div>
+
+            <div class="prati-zajavkata">
+                <input id="send-form" value="Изпрати" type="button">
+                <input id="ajaxContent" value="Зареди Съдържание" type="button">
+            </div>
+        </div>
+        <div class="useless-info"></div>
+        <div class="mask hidden">
+            <img src="ajax-loader.gif">
+        </div>
+
+    </body>
+</html>

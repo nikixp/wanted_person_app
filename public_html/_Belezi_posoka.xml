@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<row cod_z="1" ime_z="ГОРЕ" valid="0" next_z="0" nivo0="0"/>
+	<row cod_z="2" ime_z="ГОРЕ ДЯСНО" valid="0" next_z="0" nivo0="0"/>
+	<row cod_z="3" ime_z="ГОРЕ ЛЯВО" valid="0" next_z="0" nivo0="0"/>
+	<row cod_z="4" ime_z="ГОРЕ СРЕДА" valid="0" next_z="0" nivo0="0"/>
+	<row cod_z="5" ime_z="ДОЛУ" valid="0" next_z="0" nivo0="0"/>
+	<row cod_z="6" ime_z="ДОЛУ ДЯСНО" valid="0" next_z="0" nivo0="0"/>
+	<row cod_z="7" ime_z="ДОЛУ ЛЯВО" valid="0" next_z="0" nivo0="0"/>
+	<row cod_z="8" ime_z="ДОЛУ СРЕДА" valid="0" next_z="0" nivo0="0"/>
+	<row cod_z="9" ime_z="ДЯСНО" valid="0" next_z="0" nivo0="0"/>
+	<row cod_z="10" ime_z="ЛЯВО" valid="0" next_z="0" nivo0="0"/>
+	<row cod_z="11" ime_z="НЕОПРЕДЕЛЕНО" valid="0" next_z="0" nivo0="0"/>
+	<row cod_z="12" ime_z="СРЕДА" valid="0" next_z="0" nivo0="0"/>
+</root>
