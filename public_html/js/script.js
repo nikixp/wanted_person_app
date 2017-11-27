@@ -153,6 +153,7 @@ $(document).ready(function () {
                 //var newKey = db.database().ref().child('wanted_persons').push().key;
                 //console.log('new key is ' + newKey);
                 let result = db.database().ref('wanted_persons/').push({data});
+                //let result = db.database().ref('new_nosql_table/').push( { nqkav nov obekt } ); //zaduljitelno v { }
                 console.log('data is saved with at ' + result);
                 console.log('alldata: https://mvr-bg-b97eb.firebaseio.com/wanted_persons.json');
             } catch (err) {
