@@ -153,7 +153,8 @@ $(document).ready(function () {
                 //var newKey = db.database().ref().child('wanted_persons').push().key;
                 //console.log('new key is ' + newKey);
                 let result = db.database().ref('wanted_persons/').push({data});
-                console.log('data is saved with id' + result + ', alldata: https://mvr-bg-b97eb.firebaseio.com/wanted_persons.json');
+                console.log('data is saved with at ' + result)
+                console.log('alldata: https://mvr-bg-b97eb.firebaseio.com/wanted_persons.json');
             } catch (err) {
                 console.error(err);
             }
